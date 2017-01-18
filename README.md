@@ -3,13 +3,10 @@
 Write a test for Feed Reader App
 
 ## How to run
-### Link
-Open this [link][1] with a browser
-
 ### Open file
 Open file `index.html` with browser
 
-### Host the app locally
+### Or host the app locally
 Open app using *Python 2* by running the command in the terminal:
 
 ```
